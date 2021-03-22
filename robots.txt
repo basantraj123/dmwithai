@@ -1,0 +1,3 @@
+user-agent : *
+
+sitemap : http://www.dmwithai.cf/sitemap.xml
